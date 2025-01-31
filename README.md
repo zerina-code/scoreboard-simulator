@@ -1,4 +1,4 @@
-# simulator
+# scoreboard-simulator
 Basketball scoreboard simulator
 This project was done in a simulator WokWi which you can access here: https://wokwi.com/projects/399650590003908609
 It simulates basketball game, where each basketball shot to the net (using mathematical and physical formulas) is measured and estimated. 
